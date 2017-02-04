@@ -41,6 +41,12 @@ px      68    160    252    344    436    528    620    712    */
   #features {
     text-align: center;
   }
+  .post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  }
   /*--
 	footer Start 
 --*/
@@ -244,6 +250,12 @@ px      68    160    252    */
 --*/
   #features .features-img {
     text-align: center;
+  }
+  .post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
   }
   /*---------------------------------------------
 					Index Close 
